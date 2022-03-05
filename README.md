@@ -1,4 +1,4 @@
-<p>EN |<a href=""/> PT-BR</a>
+<p>EN |<a href="https://github.com/matheusgalfer/matheusgalfer/blob/master/README-ptbr.md"/> PT-BR</a>
 
 ## Hi there! I'm Matheus
 > 🎓 Graduated in computer science at <a href="ufla.br">UFLA</a><br>
