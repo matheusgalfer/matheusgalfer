@@ -3,7 +3,7 @@
 
 ## Oi! Aqui é o Matheus
 > 🎓 Graduado em ciência da computação na <a href="ufla.br">UFLA</a><br>
-> 💻 Trabalhando atualmente na<a href="tcs.com">TCS</a><br>
+> 💻 Trabalhando atualmente na <a href="tcs.com">TCS</a><br>
 > 🤟 Entusiasta da tecnologia e como as coisas funcionam<br>
 
 
